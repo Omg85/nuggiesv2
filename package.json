@@ -1,0 +1,39 @@
+{
+  "name": "@Omg85/nuggiesv2",
+  "version": "1.0.4",
+  "description": "A utility package for Discord Bots!",
+  "main": "index.js",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@Omg85"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord-buttons": "github:AngeloCore/discord-buttons#dev",
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.12.14",
+    "ms": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omg85/nuggiesv2.git"
+  },
+  "author": "spikie",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/Omg85/nuggiesv2/issues"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "discord-giveaways",
+    "giveaways",
+    "discord-buttons",
+    "buttons",
+    "buttons-discord",
+    "button-roles",
+    "discord-button-roles"
+  ],
+  "homepage": "https://github.com/Omg85/nuggiesv2/#readme"
+}

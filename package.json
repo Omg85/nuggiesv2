@@ -1,6 +1,6 @@
 {
   "name": "@omg85/nuggiesv2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A utility package for Discord Bots!",
   "main": "index.js",
   "publishConfig": {

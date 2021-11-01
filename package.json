@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "discord-buttons": "github:AngeloCore/discord-buttons#dev",
-    "discord.js": "^12.5.3",
+    "discord.js": "^13.3.0",
     "mongoose": "^5.12.14",
     "ms": "^2.1.2"
   },
